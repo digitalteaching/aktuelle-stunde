@@ -5,4 +5,4 @@ Wöchentlicher 20-Minuten-Einstieg zu einem aktuellen politischen Thema, immer i
 Link (aktuelle Woche): https://digitalteaching.github.io/aktuelle-stunde/
 
 Archiv:
-- 19.11.2026 – Stromsteuer runter, Spritpreisdeckel kommt: https://digitalteaching.github.io/aktuelle-stunde/2026-11-19/
+- 19.11.2026 – Stromsteuer und Spritpreisdeckel: https://digitalteaching.github.io/aktuelle-stunde/2026-11-19/
